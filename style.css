@@ -1,0 +1,9 @@
+.h31{
+    width: 100%;
+}
+
+canvas{
+    border: 15px; 
+    border-style:ridge ;
+    border-color:aqua ;
+}
